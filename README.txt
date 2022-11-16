@@ -5,6 +5,12 @@ Implementation by Benjamin Riseman
 
 ***************************************/
 
+***
+Implementation of board game "Hey, That's My Fish!" in C. First coding project I did in C.
+Given little to no instructions on how to implement the game, so most of this is my attempt at a good design.
+May have some minor errors that were hard to crack - it was my first attempt at C programming, after all!
+***
+
 
 1.) Board using pointers:
 
