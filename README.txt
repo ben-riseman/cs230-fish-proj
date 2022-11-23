@@ -1,7 +1,7 @@
 /**************************************
 
 CS 230 Project 1 - Hey, That's My Fish!
-Implementation by Benjamin Riseman
+Implementation by Benjamin Riseman, 2021
 
 ***************************************/
 
